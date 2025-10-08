@@ -13,8 +13,8 @@ Follow the steps below to reproduce the same setup used in the tutorials.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/polars-beginner-course.git
-cd polars-beginner-course
+git clone https://github.com/zerotodatadev-hub/polars-beginner-series.git
+cd polars-beginner-series
 ````
 
 ### 2. Install uv (if not already installed)
