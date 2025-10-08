@@ -1,0 +1,8 @@
+[project]
+name = "polars-beginner-series"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "notebook==7.4.7",
+    "polars[all]==1.34",
+]
