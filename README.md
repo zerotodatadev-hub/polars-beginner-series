@@ -21,6 +21,7 @@ cd polars-beginner-series
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
+uv python install 3.13 # if not installed already
 ```
 
 ### 3. Sync dependencies
